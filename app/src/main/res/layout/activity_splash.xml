@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/logo" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center|right">
+
+        <ImageView
+            android:id="@+id/bigPizza"
+            android:layout_width="100dp"
+            android:layout_height="300dp"
+            android:src="@drawable/big" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/images"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center|left">
+
+        <ImageView
+            android:id="@+id/smallPizza"
+            android:layout_width="70dp"
+            android:layout_height="200dp"
+            android:src="@drawable/pizza" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_below="@+id/images"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="70sp"
+            android:textStyle="bold"
+            android:textColor="@color/orange"
+            android:text="Bhansa"/>
+        <TextView
+            android:layout_below="@id/title"
+            android:id="@+id/subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="Welcomes You"/>
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

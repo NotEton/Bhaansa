@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bhaansa</string>
+    <string name="price">120</string>
+    <string name="currency">Nrs.</string>
+    <string name="food_name">foodname</string>
+    <string name="default_item_count">0</string>
+    <string name="defaultTotalCost">0</string>
+    <string name="totalCost">Total Cost</string>
+    <string name="yourOrders">Your Orders</string>
+</resources>

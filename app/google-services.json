@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "231905635278",
+    "firebase_url": "https://fir-cafe-f215f-default-rtdb.firebaseio.com",
+    "project_id": "fir-cafe-f215f",
+    "storage_bucket": "fir-cafe-f215f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231905635278:android:9ca595d6cdf3c24760599f",
+        "android_client_info": {
+          "package_name": "com.cafe.bhaansa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231905635278-iph7g3olotud3fjoenfage531tei370h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBa2l7IHTC-nWl2Jg3Xz1P-_jyInotjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231905635278-iph7g3olotud3fjoenfage531tei370h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231905635278:android:9542d72a2e5eab8460599f",
+        "android_client_info": {
+          "package_name": "com.cafe.bhaansaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231905635278-iph7g3olotud3fjoenfage531tei370h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBa2l7IHTC-nWl2Jg3Xz1P-_jyInotjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231905635278-iph7g3olotud3fjoenfage531tei370h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231905635278:android:012e8ed50506321960599f",
+        "android_client_info": {
+          "package_name": "com.cafe.firebasecafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231905635278-iph7g3olotud3fjoenfage531tei370h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBa2l7IHTC-nWl2Jg3Xz1P-_jyInotjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231905635278-iph7g3olotud3fjoenfage531tei370h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
